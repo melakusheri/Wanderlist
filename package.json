@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "it": "^1.1.1"
+  },
+  "name": "wanderlist",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melakusheri/Wanderlist.git"
+  },
+  "author": "Melaku Sheri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melakusheri/Wanderlist/issues"
+  },
+  "homepage": "https://github.com/melakusheri/Wanderlist#readme"
+}
