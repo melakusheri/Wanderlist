@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "it": "^1.1.1"
+    "it": "^1.1.1",
+    "mongodb": "^4.1.4"
   },
   "name": "wanderlist",
   "description": "",
