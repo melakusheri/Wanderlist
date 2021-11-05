@@ -1,49 +1,47 @@
-
-html, body {
+html,
+body {
     height: 100% !important;
-    
 }
 
 div#root {
     height: 100% !important;
-    
-    
 }
 
-
-.container  {
+.container {
     display: flex;
     justify-content: center;
+}
 
-  
-  }
-  
-  .container{
+.container {
     margin-right: 33%;
     margin-left: 33%;
     margin-top: 5%;
     width: 33%;
-  }
+}
 
-  #input_0, #input_1 {
-      width: 100%;
-      max-width: 100%;
+#input_0,
+#input_1 {
+    width: 100%;
+    max-width: 100%;
+}
 
-  }
+#appName {
+    text-align: center;
+}
 
-  #appName {
-      text-align: center;
-  }
 
-  /* @media only screen and (min-width: 1200px) */
+/* @media only screen and (min-width: 1200px) */
+
 nav {
     color: #fff;
     width: 100%;
     height: 56px;
     line-height: 56px;
-    background-color: darkturquoise;}
+    background-color: darkturquoise;
+}
 
-    /* .btn, .btn-large {
+
+/* .btn, .btn-large {
         text-decoration: none;
         color: black;
         background-color: darkturquoise;
@@ -68,47 +66,47 @@ nav {
 
     } */
 
-    .App {
-        height: 100% !important;
-        
-    
-    }
-
-    #body {
+.App {
     height: 100% !important;
-    background-image: url(image.png);
-        background-size: cover;
-    
-    }
+}
 
-    div.card-content {
-        
-        background-color: aliceblue !important;
-    }
+#body {
+    height: 100% !important;
+    background-image: url(image.jpg);
+    background-size: cover;
+}
 
-    #logincontainer {   
-        margin-right: 33%;
-        margin-left: 40%;
-        margin-top: 5%;
-        width: 22%;
-        border-radius: 10px;
-        background-color: aliceblue;
-    }
+div.card-content {
+    background-color: aliceblue !important;
+}
 
-    a {
-        color: white;
-        text-decoration: none;
-        -webkit-tap-highlight-color: transparent;
-    }
+#logincontainer {
+    margin-right: 33%;
+    margin-left: 40%;
+    margin-top: 5%;
+    width: 22%;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
 
-    .btn:hover, .btn-large:hover {
-        background-color: aqua;
-    }
-    .btn, .btn-large {
-        text-decoration: none;
-        color: #fff;
-        background-color: #4D929E;
-        text-align: center;
-        letter-spacing: .5px;
-        transition: .2s ease-out;
-        cursor: pointer;}
+a {
+    color: white;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.btn:hover,
+.btn-large:hover {
+    background-color: aqua;
+}
+
+.btn,
+.btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #4D929E;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
