@@ -1,6 +1,6 @@
 .hero {
     height: 100vh !important;
-    background-image: url();
+    background-image: url(cropped-world-travel1.jpg);
     background-size: cover;
 }
 
@@ -40,9 +40,8 @@
 }
 
 #learnSection {
-        background-image: url();
-        background-size: cover;
-        color: lemonchiffon;
-        height: 100vh;
-
+    background-image: url();
+    background-size: cover;
+    color: lemonchiffon;
+    height: 100vh;
 }
